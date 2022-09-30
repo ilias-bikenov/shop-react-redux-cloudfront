@@ -1,3 +1,8 @@
+# Info for reviewers
+
+- Web App Domain: https://d35ivlezbe9tp8.cloudfront.net/
+- Bucket (Access Denied): https://my-store-app-ilias.s3.amazonaws.com/index.html
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
